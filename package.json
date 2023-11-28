@@ -7,10 +7,10 @@
   "unityRelease": "2f1",
   "dependencies": {},
   "keywords": [
-    "network"
+    "hero_battle"
   ],
   "author": {
     "name": "Tap4Fun",
-    "url": "https://git.tap4fun.com/tfw/com.tfw.network"
+    "url": "https://github.com/zking97/BattleTestSub1.git"
   }
 }
