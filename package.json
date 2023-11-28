@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Hero Battle",
   "description": "Hero Battle library",
-  "unity": "2018.2",
+  "unity": "2020.3",
   "unityRelease": "2f1",
   "dependencies": {},
   "keywords": [
